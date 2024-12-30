@@ -2,7 +2,7 @@
 
 Submitted by: **Danielle Justo**
 
-**Name of your app** is an app that changes the background color when the button is clicked. 
+**Background Color Change App** is an app that changes the background color when the button is clicked. 
 
 Time spent: **0.5** hours spent in total
 
