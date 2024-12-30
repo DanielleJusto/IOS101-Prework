@@ -23,7 +23,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Struggled with connecting the logic to the UI and figuring out Swift syntax. 
 
 ## License
 
