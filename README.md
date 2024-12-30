@@ -21,6 +21,24 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+**Make a list of your favorite 3-5 applications and identify 2-3 features that make them your favorite app. Its okay if features repeat on different apps**
+
+Instagram: 
+- Messaging
+- Reacting to messages with Emojis
+
+Good Reads:
+- You can set reading goals and track your progess
+- You can keep track of books you've read and books you want to read
+
+Air Buds:
+- It has a widget
+- It uses data from Spotify and collects stats on your listening habits and those of your friends. 
+
+**Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app. Write a short paragraph describing the app and the features you would like to implement. You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers and instructor**
+
+I want to build a habit tracker app. It will allow the user to set their desired habits, and they can record what habits they have completed each day. It can collect statistics based on the user's input and track their progress throughout the year. I would also like the app to give the user the option to set notifications that will remind them to track their habits. 
+
 ## Notes
 
 - Struggled with connecting the logic to the UI and figuring out Swift syntax. 
